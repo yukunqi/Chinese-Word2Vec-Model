@@ -8,6 +8,6 @@
 使用的是Python语言的gensim库实现的word2vec 官网地址(https://radimrehurek.com/gensim/models/word2vec.html)
 
 因为使用了1G多的语料进行训练，得到了一个1G多的模型(包含有70多万的词汇)，github上不好传，就上传到了百度网盘
-可以移步()到网盘上下载。使用起来很方便简单。
+可以移步(链接: https://pan.baidu.com/s/1khTtsQPRcc2CinLSTj-qQQ 密码: 2nte)到网盘上下载。使用起来很方便简单。
 
 可以参考Test.py里来测试一下模型，更多的用法请参照gensim官网的API文档
