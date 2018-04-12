@@ -1,0 +1,9 @@
+#忽略产生的日志文件
+get_ip_logs/*
+IP_POOL/get_ip_logs/*
+#忽略idea的配置文件
+.idea/*
+#忽略pycharm产生的缓存文件
+__pycache__/*
+word2vec_779845.bin
+
